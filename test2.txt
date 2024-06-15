@@ -1,5 +1,5 @@
 第二次创建的文件
 
 
-learn git is easy
+learn git is difficlt
 
